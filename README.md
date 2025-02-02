@@ -37,3 +37,18 @@ Start a simple server for static files:
 
 Use tools like Live Server in VS Code or any preferred method.
 Update database connection in config.js 
+
+# img
+
+![Screenshot 2025-02-02 143145](https://github.com/user-attachments/assets/06c0497c-ab9f-42a2-98f9-e8b417c79d05)
+![Screenshot 2025-02-02 143250](https://github.com/user-attachments/assets/a876a5c7-53b2-4306-b0d4-089b90138384)
+![Screenshot 2025-02-02 143437](https://github.com/user-attachments/assets/38672b6f-3745-45df-9701-57f3b2476a48)
+![Screenshot 2025-02-02 143509](https://github.com/user-attachments/assets/f20757e1-2648-4404-967e-c1c9904d2b16)
+![Screenshot 2025-02-02 143524](https://github.com/user-attachments/assets/397329e2-c4ce-401a-bd63-dfc929c0f0c9)
+![Screenshot 2025-02-02 143558](https://github.com/user-attachments/assets/b2e09229-05ba-41ef-8bac-2cff5a564a5f)
+
+
+
+
+
+
